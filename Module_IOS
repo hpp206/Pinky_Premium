@@ -1,3 +1,8 @@
+#!name = All_In_One
+#!desc = Tổng hợp module Shadowrocket: YouTube, Spotify, SoundCloud, Wink, Locket
+#!author = Nguyễn Hồng Phát
+#!homepage = https://github.com/hpp206
+#!icon = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Shadowrocket.png
 
 ##########################
 # YouTube 去广告
